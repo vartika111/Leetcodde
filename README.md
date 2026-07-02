@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vartika111/Leetcodde/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vartika111/Leetcodde/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
