@@ -2,29 +2,24 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n= nums.size();
-        vector<int> temp(n);
-        bool dup=false;
-        vector<int> asc;
-        asc=nums;
-        sort(asc.begin(),asc.end());
-       
-        for(int i=0;i<n;i++)
+        int i=1;
+        bool ans=false;
+        int count =0;
+        while(i<n)
         {
-            int k=0;
-           while(k<n)
-           {
-            temp[(k+i)%n]=nums[k];
-            k++;
-           }
+           if(nums[i-1]>nums[i])    
+            count++; //
+            i++;
+            
 
-           if(temp==asc)
-           dup=true;
         }
+        if(nums[n-1]>nums[0])
+            count++;
+       
+        return count<=1;
+        
+       
 
-        if(dup)
-        return true;
-        else
-        return false;
         
     }
 };
