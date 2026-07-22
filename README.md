@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/vartika111/Leetcodde/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
