@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/vartika111/Leetcodde/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/vartika111/Leetcodde/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/vartika111/Leetcodde/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vartika111/Leetcodde/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
