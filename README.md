@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vartika111/Leetcodde/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/vartika111/Leetcodde/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vartika111/Leetcodde/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -73,8 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vartika111/Leetcodde/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vartika111/Leetcodde/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
