@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vartika111/Leetcodde/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vartika111/Leetcodde/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
