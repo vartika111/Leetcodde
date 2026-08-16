@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/vartika111/Leetcodde/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vartika111/Leetcodde/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/vartika111/Leetcodde/tree/master/1587-bank-account-summary-ii) |
+| [1683-invalid-tweets](https://github.com/vartika111/Leetcodde/tree/master/1683-invalid-tweets) |
 ## Dynamic Programming
 |  |
 | ------- |
