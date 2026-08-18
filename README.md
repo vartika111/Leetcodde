@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/vartika111/Leetcodde/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vartika111/Leetcodde/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vartika111/Leetcodde/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vartika111/Leetcodde/tree/master/0443-string-compression) |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vartika111/Leetcodde/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/vartika111/Leetcodde/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
