@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vartika111/Leetcodde/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/vartika111/Leetcodde/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/vartika111/Leetcodde/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/vartika111/Leetcodde/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vartika111/Leetcodde/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/vartika111/Leetcodde/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/vartika111/Leetcodde/tree/master/1890-the-latest-login-in-2020) |
