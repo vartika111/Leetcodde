@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/vartika111/Leetcodde/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/vartika111/Leetcodde/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vartika111/Leetcodde/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/vartika111/Leetcodde/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/vartika111/Leetcodde/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vartika111/Leetcodde/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/vartika111/Leetcodde/tree/master/0585-investments-in-2016) |
