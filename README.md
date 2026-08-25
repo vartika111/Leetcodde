@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vartika111/Leetcodde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vartika111/Leetcodde/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vartika111/Leetcodde/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vartika111/Leetcodde/tree/master/0344-reverse-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vartika111/Leetcodde/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vartika111/Leetcodde/tree/master/0204-count-primes) |
 ## String
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vartika111/Leetcodde/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vartika111/Leetcodde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vartika111/Leetcodde/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vartika111/Leetcodde/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/vartika111/Leetcodde/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vartika111/Leetcodde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vartika111/Leetcodde/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vartika111/Leetcodde/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
