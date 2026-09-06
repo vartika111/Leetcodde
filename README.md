@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vartika111/Leetcodde/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vartika111/Leetcodde/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vartika111/Leetcodde/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
 ## Math
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
