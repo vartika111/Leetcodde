@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vartika111/Leetcodde/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/vartika111/Leetcodde/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vartika111/Leetcodde/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vartika111/Leetcodde/tree/master/0344-reverse-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vartika111/Leetcodde/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vartika111/Leetcodde/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vartika111/Leetcodde/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
