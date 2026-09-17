@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vartika111/Leetcodde/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vartika111/Leetcodde/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vartika111/Leetcodde/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vartika111/Leetcodde/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vartika111/Leetcodde/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartika111/Leetcodde/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vartika111/Leetcodde/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vartika111/Leetcodde/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
