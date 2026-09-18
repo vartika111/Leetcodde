@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vartika111/Leetcodde/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vartika111/Leetcodde/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vartika111/Leetcodde/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vartika111/Leetcodde/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vartika111/Leetcodde/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vartika111/Leetcodde/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vartika111/Leetcodde/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vartika111/Leetcodde/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vartika111/Leetcodde/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vartika111/Leetcodde/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vartika111/Leetcodde/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vartika111/Leetcodde/tree/master/0141-linked-list-cycle) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vartika111/Leetcodde/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vartika111/Leetcodde/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vartika111/Leetcodde/tree/master/0503-next-greater-element-ii) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vartika111/Leetcodde/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vartika111/Leetcodde/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vartika111/Leetcodde/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vartika111/Leetcodde/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vartika111/Leetcodde/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/vartika111/Leetcodde/tree/master/0091-decode-ways) |
 ## Linked List
