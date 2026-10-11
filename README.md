@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vartika111/Leetcodde/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vartika111/Leetcodde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vartika111/Leetcodde/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/vartika111/Leetcodde/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/vartika111/Leetcodde/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vartika111/Leetcodde/tree/master/0567-permutation-in-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vartika111/Leetcodde/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vartika111/Leetcodde/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vartika111/Leetcodde/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/vartika111/Leetcodde/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vartika111/Leetcodde/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vartika111/Leetcodde/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/vartika111/Leetcodde/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vartika111/Leetcodde/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vartika111/Leetcodde/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
