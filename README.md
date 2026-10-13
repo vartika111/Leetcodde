@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
 | [0735-asteroid-collision](https://github.com/vartika111/Leetcodde/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/vartika111/Leetcodde/tree/master/0907-sum-of-subarray-minimums) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vartika111/Leetcodde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vartika111/Leetcodde/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vartika111/Leetcodde/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/vartika111/Leetcodde/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vartika111/Leetcodde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vartika111/Leetcodde/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vartika111/Leetcodde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
