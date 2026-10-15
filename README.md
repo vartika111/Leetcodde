@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vartika111/Leetcodde/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vartika111/Leetcodde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vartika111/Leetcodde/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vartika111/Leetcodde/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vartika111/Leetcodde/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vartika111/Leetcodde/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/vartika111/Leetcodde/tree/master/0506-relative-ranks) |
