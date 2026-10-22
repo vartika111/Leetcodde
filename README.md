@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vartika111/Leetcodde/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vartika111/Leetcodde/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vartika111/Leetcodde/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/vartika111/Leetcodde/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vartika111/Leetcodde/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vartika111/Leetcodde/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/vartika111/Leetcodde/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/vartika111/Leetcodde/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/vartika111/Leetcodde/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vartika111/Leetcodde/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vartika111/Leetcodde/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vartika111/Leetcodde/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/vartika111/Leetcodde/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/vartika111/Leetcodde/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartika111/Leetcodde/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
